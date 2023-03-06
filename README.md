@@ -15,7 +15,7 @@ This application is simple to use :
 - The application takes in your input and returns a harshed string in form of a web-link.
 - The displayed web-link can be copied, shared && | opened in any web browser
 
-### Application Scalability
+## Application Scalability
 
 This application is easily scalable in many ways.
 Let's think about implementing on the present functionality.
