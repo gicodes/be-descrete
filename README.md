@@ -15,8 +15,8 @@ This application is simple to use
 - The displayed web-link can be copied, shared && | opened in any web browser
 
 ## Application Scalability
-This application is easily scalable in many ways.
-Let's think about implementing on the present functionality.
+This application is easily scalable in many ways
+*Let's think about implementing on the present functionality.*
 
 - Web share: on the usability, 'it can shared' needs a share button and sharing options.
 - Description: currently our 'Enter a secret message' does not clearly define the role | use.
