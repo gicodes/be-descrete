@@ -8,9 +8,9 @@ is a mini web application used to compose and share anonymous messages.
 
 ## Application Usability
 
-This application is simple to use :
+This application is simple to use 
 
-- Visit the web link secret-msg-app-six.vercel.app
+- Visit the web-link https://secret-msg-app-six.vercel.app
 - Under the 'Enter a Secret Message' input your desired text and click create
 - The application takes in your input and returns a harshed string in form of a web-link.
 - The displayed web-link can be copied, shared && | opened in any web browser
