@@ -1,5 +1,4 @@
 # beDescrete.app
-
 is a mini web application used to compose and share anonymous messages.
 
 - This application utilises the *window.location* to redirect the browser.
@@ -22,3 +21,5 @@ Let's think about implementing on the current functionality.
 - Description: currently our 'Enter a secret message' does not clearly define the role | use.
 - Create link: similar to the Description issue, the create button does not define it's role.
 - App style: currently, our application lacks any basic styling. CSS will improve the UI.
+
+# Designed & Developed by Gideon, I
