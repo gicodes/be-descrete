@@ -1,5 +1,5 @@
 # beDescrete.app
-is a mini web application used to compose and share anonymous messages.
+is a simple web application used to compose and share anonymous messages.
 
 - This application utilises the *window.location* to redirect the browser.
 - This application was built on HTML and vanilla Javascript.
