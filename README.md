@@ -1,4 +1,4 @@
-# beDescrete.app
+# be-descrete.app
 is a simple web application used to compose and share anonymous messages.
 
 - This application utilises the *window.location* to redirect the browser.
